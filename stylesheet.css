@@ -101,6 +101,7 @@ p {
 }
 .categories {
     margin: 70px;
+    display: flex;
 
 }
 .col-3 {
@@ -112,22 +113,18 @@ p {
 {
     width: 100%;
 }
-.small-container    {
-    max-width: 1080px;
-    margin: auto;
-    padding-left: 25px;
-    padding-right: 25PX;
+.small-container{
+    margin: 70px 0;
+    
+    
 }
-.col-4 {
-    flex-basis: 25%;
-    padding: 10px;
-    min-width: 200px;
-    margin-bottom: 50px;
-   
-   
+.col-4{
+    
+    min-width:250px;
+    margin-bottom: 30px;
 }
-.col-4 img {
-    width:100%;
-   
 
+.col-4 img
+{
+    width: 100%;
 }
