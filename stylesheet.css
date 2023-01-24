@@ -119,13 +119,14 @@ p {
     padding-left: 25px;
     padding-right: 25px;
 }
-.col-4{
+.col-4 {
+    transition: transform 0.5s;
+    margin-bottom: 50px;
     flex-basis: 25%;
-    min-width:250px
-    margin-bottom: 30px;
-    padding: 10px;
-}
+    min-width: 250px padding: 10px;
+    flex-basis: 25%;
 
+}
 .col-4 img
 {
     width: 100%;
@@ -147,4 +148,18 @@ p {
     bottom: 0%;
     left: 50%;
     transform: translateX(-50%);
+}
+h4{color: #ff523b;
+    font-weight: normal;
+
+
+}
+.col-4 p{
+    font-size: 14px;
+}
+.rating .fa{
+    color: #ff523b;
+}
+.col-4:hover {
+   transform: translateY(-5px);
 }
