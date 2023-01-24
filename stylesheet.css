@@ -80,7 +80,7 @@ p {
     }
 .header{
 
-    background: radial-gradient(#fff,#ffd6d6);
+    background: thistle;
 }
 .header .row {
     margin-top:70px ;
@@ -163,4 +163,13 @@ h4{color: #353131;
 }
 .col-4:hover {
    transform: translateY(-5px);
+}
+.offer {
+    background-color:thistle;
+    margin-top: 80px 0;
+    padding: 30px 0;  
+}
+.col-2 .offer-img {
+    padding: 50px;
+   
 }
