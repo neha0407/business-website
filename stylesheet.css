@@ -61,6 +61,8 @@ p {
     max-width: 100%;
     padding:50px 0;
     border-radius: 50%;
+    width: 400px;
+        height: 600px;
     
 
 }
@@ -171,5 +173,7 @@ h4{color: #353131;
 }
 .col-2 .offer-img {
     padding: 50px;
+   width: 600px;
+   height: 600px;
    
 }
