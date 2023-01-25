@@ -179,7 +179,7 @@ h4{color: #353131;
 }
 /*------footer----*/
 .footer {
-    background-color: rgb(91, 100, 154);
+    background-color:lavenderblush;
     color: black;
     font-size: 14px;
     padding: 60px 0 20px;
@@ -209,4 +209,10 @@ h4{color: #353131;
 }
 ul {
     list-style-type: none;
+}
+.app-logo {
+    margin-top: 20px;
+}
+.app-logo img {
+    width:140px ;
 }
