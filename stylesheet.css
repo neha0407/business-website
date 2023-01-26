@@ -216,3 +216,8 @@ ul {
 .app-logo img {
     width:140px ;
 }
+hr {
+    height:1px;
+    color: white;
+
+}
